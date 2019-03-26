@@ -12,7 +12,7 @@
 * listingandexclusions
 * ecommerce-domain  
 ## ecommerce-domain
-![](mule-domain-config.gif)
+![](images/mule-domain-config.gif)
 ### Description
 A Mule Domain Project is implemented to configure the resources that are shared among different projects. These resources can be used by all the projects associated with this domain. Mule applications can be associated with only one domain, but a domain can be associated with multiple projects.  
 ### Configuration
