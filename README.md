@@ -54,6 +54,7 @@ The Import has the Config file with SAP Specific connector configuration, it's i
 ##### statuscheck
 ##### account-process
 ##### product-process
+![](images/product-process.gif)
 ##### sales-order-process
 ##### csv2hybris
 ##### listingandexclusions
